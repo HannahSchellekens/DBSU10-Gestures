@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Gestures</string>
+    <string name="cmd_name">Command name</string>
+    <string name="input_name">Input name</string>
+    <string name="input">Activation input</string>
+    <string name="output">Activation outputs</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="delete">Delete</string>
+    <string name="tweet">Tweet</string>
+    <string name="test">Test</string>
+    <string name="enter_tweet">Enter the tweet you want to send using TweetBot</string>
+    <string name="wrong_input">Wrong input</string>
+    <string name="enter_name">You have to enter a name.</string>
+    <string name="enter_output">You have to give up at least one output.</string>
+    <string name="delete_input">Delete input</string>
+    <string name="delete_input_confirm">Are you sure you want to delete the command \'%s\'?</string>
+
+    <string-array name="input_array">
+        <item>Just button input</item>
+        <item>Roll left</item>
+        <item>Roll right</item>
+        <item>Tilt up</item>
+        <item>Tilt down</item>
+    </string-array>
+
+    <string-array name="output_array">
+        <item>No output</item>
+        <item>Make coffee</item>
+        <item>Order pizza</item>
+        <item>Send tweet</item>
+    </string-array>
+</resources>
